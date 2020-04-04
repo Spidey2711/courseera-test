@@ -1,0 +1,43 @@
+*{
+	box-sizing: border-box;
+	font-family: 'Comic Neue', cursive;
+}
+
+/*Main Content*/
+.inside-grid{
+	background-color: #bfbfbf;
+	margin: 1px;
+}
+.content{
+	text-align: left;
+	margin: 10px;
+	font-weight: 700;
+	line-height: 1;
+}
+.section-title{
+	font-weight: bold;
+	text-align: center;
+	height: 30px;
+	margin-top: 0px;
+}
+.button{
+	margin-bottom: 15px;
+	text-align: center;
+}
+/*End of Main Content*/
+
+/*Header*/
+.brand{
+	font-weight: bold;
+	color: black;
+}
+.top-bar{
+	background-color: #ff1a1a;
+}
+.navbar-nav{
+	text-align: center;
+}
+#nav-list a:hover{
+	background-color: white;
+}
+/*Ender of header*/
